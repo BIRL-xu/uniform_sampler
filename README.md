@@ -1,1 +1,1 @@
-# unifor_sampler
+# uniform_sampler
