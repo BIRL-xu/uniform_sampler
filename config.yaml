@@ -1,0 +1,9 @@
+N: 10 # samples
+inner_radius: 0.5 # m
+outer_radius: 1.1 # m
+theta_uncertainty: 0.5 # The uncertainty in theta[degree].
+# Pose of AGV at present
+pose:
+  x: 1.2  # m
+  y: 0.3  # m
+  theta: 0.4  # degree
